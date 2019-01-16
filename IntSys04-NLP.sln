@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntSys04-NLP", "IntSys04-NLP\IntSys04-NLP.csproj", "{9ED19533-FBD3-4EED-B286-DCF43EB673AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ED19533-FBD3-4EED-B286-DCF43EB673AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9ED19533-FBD3-4EED-B286-DCF43EB673AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9ED19533-FBD3-4EED-B286-DCF43EB673AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9ED19533-FBD3-4EED-B286-DCF43EB673AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB493DE2-056A-4E96-BAA1-F28451EFB6F4}
+	EndGlobalSection
+EndGlobal

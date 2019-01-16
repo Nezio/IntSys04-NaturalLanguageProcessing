@@ -1,0 +1,10 @@
+D:\Development\Visual studio\IntSys04-NaturalLanguageProcessing\IntSys04-NaturalLanguageProcessing\IntSys04-NLP\bin\Debug\IntSys04-NLP.exe.config
+D:\Development\Visual studio\IntSys04-NaturalLanguageProcessing\IntSys04-NaturalLanguageProcessing\IntSys04-NLP\bin\Debug\IntSys04-NLP.exe
+D:\Development\Visual studio\IntSys04-NaturalLanguageProcessing\IntSys04-NaturalLanguageProcessing\IntSys04-NLP\bin\Debug\IntSys04-NLP.pdb
+D:\Development\Visual studio\IntSys04-NaturalLanguageProcessing\IntSys04-NaturalLanguageProcessing\IntSys04-NLP\obj\Debug\IntSys04-NLP.csprojAssemblyReference.cache
+D:\Development\Visual studio\IntSys04-NaturalLanguageProcessing\IntSys04-NaturalLanguageProcessing\IntSys04-NLP\obj\Debug\IntSys04_NLP.Form1.resources
+D:\Development\Visual studio\IntSys04-NaturalLanguageProcessing\IntSys04-NaturalLanguageProcessing\IntSys04-NLP\obj\Debug\IntSys04_NLP.Properties.Resources.resources
+D:\Development\Visual studio\IntSys04-NaturalLanguageProcessing\IntSys04-NaturalLanguageProcessing\IntSys04-NLP\obj\Debug\IntSys04-NLP.csproj.GenerateResource.cache
+D:\Development\Visual studio\IntSys04-NaturalLanguageProcessing\IntSys04-NaturalLanguageProcessing\IntSys04-NLP\obj\Debug\IntSys04-NLP.csproj.CoreCompileInputs.cache
+D:\Development\Visual studio\IntSys04-NaturalLanguageProcessing\IntSys04-NaturalLanguageProcessing\IntSys04-NLP\obj\Debug\IntSys04-NLP.exe
+D:\Development\Visual studio\IntSys04-NaturalLanguageProcessing\IntSys04-NaturalLanguageProcessing\IntSys04-NLP\obj\Debug\IntSys04-NLP.pdb

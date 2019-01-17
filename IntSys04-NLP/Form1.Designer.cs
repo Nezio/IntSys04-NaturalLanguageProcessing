@@ -154,7 +154,7 @@
             this.Controls.Add(this.btnEncodedPath);
             this.Controls.Add(this.btnStart);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Natural language processing";
             this.ResumeLayout(false);
             this.PerformLayout();
 
